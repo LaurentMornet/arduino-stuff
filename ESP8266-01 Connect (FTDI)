@@ -1,3 +1,12 @@
+/*
+
+  TX    [] [] GND       +----+
+  CH_PD [] [] GPIO2     |    | ESP8266   
+  RST   [] [] GPIO0     +----+
+  VCC   [] [] RX
+
+ */
+
 # arduino RST -> GND
 # arduino TX  -> ESP TX
 # arduino RX -> ESP RX

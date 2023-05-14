@@ -1,0 +1,5 @@
+# arduino RST -> GND
+# arduino TX  -> ESP TX
+# arduino RX -> ESP RX
+# arduino 3.3v -> VCC, CH_PD
+# arduino GND -> GND, GPIO_0
